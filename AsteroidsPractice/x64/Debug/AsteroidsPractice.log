@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\nameless\source\repos\asteroidspractice — копия\asteroidspractice\main.cpp(91): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  AsteroidsPractice.vcxproj -> C:\Users\Nameless\source\repos\AsteroidsPractice — копия\x64\Debug\AsteroidsPractice.exe

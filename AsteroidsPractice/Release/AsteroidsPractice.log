@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\nameless\source\repos\asteroidspractice — копия\asteroidspractice\main.cpp(100): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  1 of 83 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  AsteroidsPractice.vcxproj -> C:\Users\Nameless\source\repos\AsteroidsPractice — копия\Release\AsteroidsPractice.exe
